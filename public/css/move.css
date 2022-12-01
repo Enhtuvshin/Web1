@@ -1,0 +1,13 @@
+#mashin{
+    position: absolute;
+    background: url() no-repeat;
+    width: 100px;
+    height: 154px;
+    
+}
+#map{
+    background: url(map.png);
+    height: 300px;
+    width: 100px;
+
+}
